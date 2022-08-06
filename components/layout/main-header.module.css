@@ -1,0 +1,51 @@
+.logo {
+  color: #eeeeee;
+  text-align: center;
+  font-size: 8rem;
+  font-family: "Dancing Script", sans-serif;
+  padding-top: 3rem;
+  margin: 0;
+}
+
+.logoBox {
+  padding: 0;
+}
+
+.logoPic {
+  height: 17rem;
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron,
+.jumbotronFluid {
+  background-color: black;
+  height: 17rem;
+  margin-bottom: 0px;
+  display: block;
+}
+
+.lead {
+  color: #eeeeee;
+  font-size: 2rem;
+  text-align: center;
+  margin: 0;
+}
+
+@media screen and (max-width: 1200px) {
+  .logo {
+    font-size: 3rem;
+    /* text-align: center;
+    color: #7971ea;
+    padding-top: 1.5rem; */
+  }
+
+  .lead {
+    font-size: 1rem;
+  }
+
+  .jumbotron,
+  .jumbotronFluid {
+    height: 10rem;
+  }
+}
