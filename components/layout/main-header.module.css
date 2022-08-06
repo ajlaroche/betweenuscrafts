@@ -8,7 +8,7 @@
 }
 
 .logoBox {
-  padding: 0;
+  padding: 0 !important;
 }
 
 .logoPic {
@@ -45,7 +45,8 @@
   }
 
   .jumbotron,
-  .jumbotronFluid {
+  .jumbotronFluid,
+  .logoPic {
     height: 10rem;
   }
 }

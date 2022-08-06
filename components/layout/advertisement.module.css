@@ -1,0 +1,12 @@
+.adCard {
+  margin-right: 5rem;
+  margin-left: 5rem;
+  margin-top: 5rem;
+  margin-bottom: 0;
+  border-color: black;
+  border-width: 2px;
+}
+
+.adText {
+  text-align: center;
+}
