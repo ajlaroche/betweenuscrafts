@@ -30,6 +30,13 @@ const TEST_GALLERY = [
     title: "Sample 4",
     description: "Black on white",
   },
+  {
+    id: "5",
+    image:
+      "https://storage.googleapis.com/between-us-crafts-gallery/public/sample5.jpg",
+    title: "Sample 5",
+    description: "Black on white",
+  },
 ];
 
 function HomePage(props) {

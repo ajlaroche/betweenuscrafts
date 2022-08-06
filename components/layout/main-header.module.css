@@ -50,3 +50,17 @@
     height: 10rem;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .logo {
+    font-size: 1.5rem;
+  }
+
+  .lead {
+    font-size: 0.75rem;
+  }
+
+  .logoPic {
+    display: none;
+  }
+}
